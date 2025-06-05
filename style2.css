@@ -1,0 +1,33 @@
+
+h1{
+    text-align:center;
+    color: red;
+    background-color: rgb(48, 18, 112);
+    padding: 30px;
+    font-style: italic;
+    font
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+table{
+    width: 30%;
+    font-family: Arial, sans-serif;
+}
+span{
+    text-align: center;
+    color : rgb(236, 18, 83);
+    padding: 102px;
+    font-family: sans-serif;
+    
+
+}
+div{
+     text-align: center;
+}
+
+body{
+    background-color: rgb(193, 193, 21);
+}

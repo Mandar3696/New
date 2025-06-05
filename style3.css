@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(39, 63, 169);
+}
+
+
+.nav{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color:rgb(138, 218, 0);
+    font-style: oblique;
+    /* padding: 25px 40px ; */
+}
+
+
+.rightside ul {
+    display: flex;
+    gap: 20px;
+
+}
+
+.rightside ul li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+span {
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+}
+
+div{
+    text-align: center;
+}
+
+img{
+    width: 500px;
+}
+
+a{
+    color: black;
+    font-family: sans-serif;
+}
+
+table{
+    color: white;
+    text-align: center;
+    width: 50%;
+}
+
+ul li{
+    color: rgb(0, 255, 225);
+    
+}
+
+
+
